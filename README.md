@@ -13,23 +13,23 @@ This workshop will walk you through how to set up a Viam Rover, how to control i
 
 ## Agenda
 
-Step 1: [What's in the BOX?](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/1-Whats-in-the-box)
+Step 1: [What's in the BOX?](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/01-Whats-in-the-box)
 
-Step 2: [Setup your Raspberry Pi](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/2-Setup-Raspberry-Pi)
+Step 2: [Setup your Raspberry Pi](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/02-Setup-Raspberry-Pi)
 
-Step 3: [Setup your Viam Rover](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/3-Setup-your-rover)
+Step 3: [Setup your Viam Rover](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/03-Setup-your-rover)
 
-Step 4: [Create a Viam Machine](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/4-Create-a-Viam-machine)
+Step 4: [Create a Viam Machine](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/04-Create-a-Viam-machine)
 
-Step 5: [Add a rover fragment](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/5-Add-rover-fragment)
+Step 5: [Add a rover fragment](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/05-Add-rover-fragment)
 
-Step 6: [Create a dataset](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/6-Create-a-dataset)
+Step 6: [Create a dataset](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/06-Create-a-dataset)
 
-Step 7: [Capture images for training](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/7-Capture-images-for-training)
+Step 7: [Capture images for training](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/07-Capture-images-for-training)
 
-Step 8: [Annotate your dataset](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/8-Annotate-your-dataset)
+Step 8: [Annotate your dataset](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/08-Annotate-your-dataset)
 
-Step 9: [Train your custom model](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/9-Train-your-custom-model)
+Step 9: [Train your custom model](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/09-Train-your-custom-model)
 
 Step 10: [Configure an ML model](https://github.com/viam-devrel/make-mit-hackathon-2026/tree/main/10-Configure-an-ML-model)
 
