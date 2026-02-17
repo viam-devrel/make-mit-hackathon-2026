@@ -1,4 +1,4 @@
-# Step 2: Setup your Raspbery Pi
+# Step 2: Setup your Raspberry Pi
 
 **The Viam team should have preflashed microSD cards for you to use. If not, then you can follow the steps below to manually flash and prepare your Raspberry Pi.**
 
