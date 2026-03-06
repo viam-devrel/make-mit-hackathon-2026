@@ -1,6 +1,6 @@
 # Step 11: Add a vision service to your rover
 
-1. Click the **+** icon in the left-hand menu.
+1. Click the **+** icon in the left-hand menu and select **Configuration block**.
 1. Search for `mlmodel`, and find the `vision/mlmodel` module. Give your vision service a more descriptive name, for example `beverage-vision-service`. Click **Add component**. While the camera component lets you _access_ what your machine sees, the vision service _interprets_ the image data using your ML model.
    <br />
   <img src="../assets/findVisionService.png" alt="find and add vision service" width="450" /> 
