@@ -4,7 +4,7 @@
 1. Click the **+** icon in the left-hand menu and select **Configuration block**.
 1. Search for `tflite`, and select the `tflite_cpu/tflite_cpu` component. Click **Add component**. Leave the default name `mlmodel-1` for now, then click **Add component**. This adds support for running TensorFlow Lite models on resource-constrained devices.
   <img src="../assets/findMLModel.png" alt="find and add the TFLite CPU component for the ML model service" width=450 /> 
-1. Notice adding this component adds the ML Model service called `mlmodel-1` and the `tflite_cpu` module from the Viam registry. You'll see configurable cards on the right and the corresponding parts listed in the left sidebar.
+1. Notice adding this component adds the ML Model service called `mlmodel-1` and the `tflite_cpu` module from the Viam registry. You'll see the components listed in the left sidebar, and you can click on one to view the corresponding configurable card.
    ![ML model service added](../assets/mlModelAdded.png)
 1. In the **Configure** panel of the `mlmodel-1` service, leave the default deployment selection of **Deploy model on machine**. In the **Model** section, click **Select model**.
    ![selecting a custom model](../assets/selectModel.png)
