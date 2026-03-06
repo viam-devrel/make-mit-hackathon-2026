@@ -11,7 +11,7 @@ The Raspberry Pi that you'll use with the Viam Rover boots from a microSD card. 
 1. In the **Storage** step, choose the micro SD card from the list of devices.
 1. To configure your Raspberry Pi for remote access, go through the **Customisation** steps.
 1. Set a **Hostname**: enter the name you would like to access the Pi by, for example, `rover`. This will need to be unique among your fellow workshop attendees.
-1. Set **Localisation** settings: Set your Capital city to `Los Angeles`, Time zone to `North America/Los Angeles`, and Keyboard layout to `us`.
+1. Set **Localisation** settings: Set your Capital city to your nearest major city (ex. `Los Angeles`), Time zone to your corresponding region and city (ex. `North America/Los Angeles`), and Keyboard layout to `us`.
 1. Setup an admin user for your Pi: Enter a **username** (for example, your first name) and **password** that you'll use to log into the Pi. If you skip this step, the default username will be `pi` (not recommended for security reasons). And specify a password.
 1. Configure your Pi's Wi-Fi access: Set the **SSID** (Service Set Identifier) AKA your Wi-Fi network name and the **password** (which is the network password). 
 1. Enable SSH: In the **Remote Access** step, toggle on the **Enable SSH** is turned on and that **Use password authentication** is selected. This lets you log into your Pi over the network using the username and password you provided earlier. 

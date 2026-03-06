@@ -40,10 +40,8 @@ You can use the data management service to capture data from the Rover's camera,
 
 1. If you see a **Capture disabled on data management service** warning, click **Enable capture on data management service**.
 1. Select a **Method** to capture data from.
-   - **GetImages** (recommended): Returns one image for each camera sensor as a JPEG (for color sensors) or point cloud (for depth sensors).
-   - **ReadImage**: Returns a single image in the specified MIME type, if the camera component supports that MIME type.
-     Prefer GetImages unless your use case requires a specific MIME type other than JPEG.
-1. Set the capture **Frequency** in hertz, for example to `0.2` with `ReadImage` on a camera to capture an image every 5 seconds.
+   - **GetImages**: Returns one image for each camera sensor as a JPEG (for color sensors) or point cloud (for depth sensors).
+1. Set the capture **Frequency** in hertz, for example to `0.2` with `GetImages` on a camera to capture an image every 5 seconds.
 1. **Save** your config.
 1. Be mindful that this can result many images! Once you have enough images for your training data (at least 10 different images of each object you are trying to detect), you can toggle the **Capturing** setting of the data capture method off to stop capturing more images. Be sure to hit save.
 1. Navigate back to the **DATA** tab. Select all of the images you'd like to use for training (by checking each desired image's checkbox), then click the **Add to dataset** button.
