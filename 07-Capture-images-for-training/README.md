@@ -11,19 +11,19 @@ Now, you can capture training data by manually adding images to a dataset or by 
 
 ### Manually adding images to a dataset
 1. Expand your camera component's **TEST** panel. Here, you'll see the live feed of your camera as well the "Add image to dataset" icon, which looks like a camera.
-   ![add image to dataset button](/assets/addImageButton.png)
+   ![add current image to dataset button](/assets/addImageButton.png)
 1. Using the live feed as a viewfinder, position your object fully in the frame. If needed, move your rover to get a better perspective or view of the object. The less visual clutter in the background the better!
    ![positioning a beverage for capture](/assets/positionDrink.jpeg)
    
    > 💡 **Good test data**: If you're able to set up a little "photo shoot" booth to capture images of your objects, do so! My own setup consisted of a piece of cardboard propped up by a bookend, my camera close enough to let the cardboard fill the frame, and enough space to place my object. Great images are clear, well-lit, minimize visual noise or clutter, and clearly isolate the object you are trying to capture. If possible, capturing different angles and different lighting scenarios are great additions to your dataset as well. Remember, for each object you are trying to detect, **at least 10 images** are needed to train a model!
-1. When you are happy with the image, click the **Add image to dataset** button.
+1. When you are happy with the image, click the **Add current image to dataset** button (updated UI: it will be under the "Export screenshot" button).
    ![adding image to dataset](/assets/takeScreenshot.png)
 1. In the list of datasets that appear, select the dataset you wish to add your captured image to. For example, `beverages`:
    <br>
    <img src="/assets/selectDataset.png" alt="selecting the dataset" width="450" />
 1. Confirm the dataset you've selected, then click **Add**.
    <br>
-   <img src="/assets/addToDataset.png" alt="add image to selected dataset" width="450" />
+   <img src="/assets/addToDataset.png" alt="add current image to selected dataset" width="450" />
 1. A success message will appear at the top-right once your image is added to your selected dataset.
    <br>
    <img src="/assets/imageSaveSuccess.png" alt="successful image added to dataset" width="350" />
